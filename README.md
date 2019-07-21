@@ -25,3 +25,6 @@ Procedure for booting Linux from SD card :
 2.	One is a BOOT section of 1 GB capacity and another one as ROOT file system of remaining space. BOOT section Partition is a     type of FAT32 and ROOT file system partition is a type of ext3.
 3.	The available files MLO, uboot and Env files should be copied to the BOOT partition of the SD card.
 4.	The complete Linux image files and board .dtb file should be copied to the ROOT file system partition.
+
+
+Download all the required files which have been uploaded here, after extracting rar file just update the boot folder only with uImage and am33
