@@ -27,4 +27,4 @@ Procedure for booting Linux from SD card :
 4.	The complete Linux image files and board .dtb file should be copied to the ROOT file system partition.
 
 
-Download all the required files which have been uploaded here, after extracting rar file just update the boot folder only with uImage and am33
+Download all the required files which have been uploaded here, after extracting rar file just update the boot folder only with uImage and am335x dtb file.
