@@ -1,4 +1,4 @@
-# beaglebone-black-revc-SD-card-booting-
+# Beaglebone-black-revc-SD-card-booting-
 procedure of booting BBB from SD card and the files required for successful booting.
 BEAGLEBONE BLACK REV C
 
